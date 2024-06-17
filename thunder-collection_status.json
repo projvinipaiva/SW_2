@@ -1,0 +1,85 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "status",
+    "collectionId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+    "dateExported": "2024-06-17T14:04:53.553Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "962a819a-d65c-4cc9-b656-a12905486fec",
+            "colId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+            "containerId": "",
+            "name": "status",
+            "url": "http://localhost/aula_api/app/status/",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-06-17T12:34:09.988Z",
+            "modified": "2024-06-17T12:34:09.988Z",
+            "headers": []
+        },
+        {
+            "_id": "e98386d6-2a83-4010-b0ed-639b8c276db8",
+            "colId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+            "containerId": "",
+            "name": "get_dados",
+            "url": "https://localhost/aula_api/app/get_all_data/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-06-17T12:49:47.729Z",
+            "modified": "2024-06-17T13:35:07.333Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "f3ad936d-0c88-4328-971f-bbde12e1c81b",
+            "colId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+            "containerId": "",
+            "name": "get_nomes",
+            "url": "https://localhost/aula_api/app/get_all_name/",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-06-17T12:52:25.467Z",
+            "modified": "2024-06-17T13:41:20.497Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "10d69d92-6bca-479a-b4fc-1f4f24ae875c",
+            "colId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+            "containerId": "",
+            "name": "get_total_registros",
+            "url": "https://localhost/aula_api/app/get_total records/",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-06-17T12:55:03.151Z",
+            "modified": "2024-06-17T13:41:59.072Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "fb2369b6-cf51-495b-90dc-9dd3cd9b372d",
+            "colId": "a2d4b412-ac31-4ba4-9667-7765f558c39d",
+            "containerId": "",
+            "name": "get_um_cliente",
+            "url": "https://localhost/aula_api/app/get_um_cliente?id=1",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2024-06-17T13:56:40.981Z",
+            "modified": "2024-06-17T13:58:09.516Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "id",
+                    "value": "1",
+                    "isPath": false
+                }
+            ],
+            "tests": []
+        }
+    ],
+    "ref": "HDocs2S7L87AvNpyMUdLPjOSAzGpMl8d0-2R4YNPxc4ERIXCcYxE5BScbgNHKNQVDDbzMlv008Tt3U_UK9I46w"
+}
